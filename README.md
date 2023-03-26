@@ -1,6 +1,6 @@
 # DataVisulization_UsingGui
 
-# 1.1 INTRODUCTION
+# INTRODUCTION
 
  Data visualization is a graphic representation that expresses the significance of data. It reveals insights 
 and patterns that are not immediately visible in the raw data. It is an art through which information, 
