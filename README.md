@@ -1,4 +1,4 @@
-# DataVisulization_UsingGui
+# DataVisulization Using GUI
 
 # INTRODUCTION
 
